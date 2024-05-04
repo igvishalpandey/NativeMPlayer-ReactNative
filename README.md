@@ -25,4 +25,4 @@ Through the development of this app, I gained experience in:
 4. Run the app on an emulator or physical device using `npm run android` or `npm run ios`.
 
 ## Author
-This app is developed by [Your Name].
+This app is developed by Vishal Pandey.
